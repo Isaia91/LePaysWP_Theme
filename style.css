@@ -1,0 +1,20 @@
+/*
+ Theme Name: Montheme
+*/
+
+hr {
+    border-color: red;
+}
+
+.navcolor {
+    background-color: #a5daa1;
+}
+
+
+/*Enlever les effets sur les catégories*/
+.category-link {
+    text-decoration: none;
+    color: inherit;
+    background-color: transparent;
+  }
+  
